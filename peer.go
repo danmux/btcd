@@ -15,13 +15,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcd/addrmgr"
-	"github.com/conformal/btcdb"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcutil/bloom"
-	"github.com/conformal/btcwire"
-	socks "github.com/conformal/go-socks"
+	"github.com/monetas/btcchain"
+	"github.com/monetas/btcd/addrmgr"
+	"github.com/monetas/btcdb"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcutil/bloom"
+	"github.com/monetas/btcwire"
+	socks "github.com/monetas/go-socks"
 	"github.com/davecgh/go-spew/spew"
 )
 

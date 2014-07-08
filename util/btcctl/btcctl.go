@@ -10,10 +10,10 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/conformal/btcjson"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcws"
-	flags "github.com/conformal/go-flags"
+	"github.com/monetas/btcjson"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcws"
+	flags "github.com/monetas/go-flags"
 	"github.com/davecgh/go-spew/spew"
 )
 

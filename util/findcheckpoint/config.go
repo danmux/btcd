@@ -9,12 +9,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/conformal/btcdb"
-	_ "github.com/conformal/btcdb/ldb"
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
-	flags "github.com/conformal/go-flags"
+	"github.com/monetas/btcdb"
+	_ "github.com/monetas/btcdb/ldb"
+	"github.com/monetas/btcnet"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
+	flags "github.com/monetas/go-flags"
 )
 
 const (

@@ -19,12 +19,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcd/addrmgr"
-	"github.com/conformal/btcdb"
-	"github.com/conformal/btcjson"
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcchain"
+	"github.com/monetas/btcd/addrmgr"
+	"github.com/monetas/btcdb"
+	"github.com/monetas/btcjson"
+	"github.com/monetas/btcnet"
+	"github.com/monetas/btcwire"
 )
 
 const (

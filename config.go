@@ -16,13 +16,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/conformal/btcdb"
-	_ "github.com/conformal/btcdb/ldb"
-	_ "github.com/conformal/btcdb/memdb"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
-	flags "github.com/conformal/go-flags"
-	socks "github.com/conformal/go-socks"
+	"github.com/monetas/btcdb"
+	_ "github.com/monetas/btcdb/ldb"
+	_ "github.com/monetas/btcdb/memdb"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
+	flags "github.com/monetas/go-flags"
+	socks "github.com/monetas/go-socks"
 )
 
 const (

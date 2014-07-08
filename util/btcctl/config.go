@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/conformal/btcutil"
-	flags "github.com/conformal/go-flags"
+	"github.com/monetas/btcutil"
+	flags "github.com/monetas/go-flags"
 )
 
 var (

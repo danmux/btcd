@@ -9,11 +9,11 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcd/limits"
-	"github.com/conformal/btcdb"
-	_ "github.com/conformal/btcdb/ldb"
-	"github.com/conformal/btclog"
+	"github.com/monetas/btcchain"
+	"github.com/monetas/btcd/limits"
+	"github.com/monetas/btcdb"
+	_ "github.com/monetas/btcdb/ldb"
+	"github.com/monetas/btclog"
 )
 
 const (
